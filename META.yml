@@ -1,0 +1,28 @@
+--- #YAML:1.0
+name:               HTML-Laundry
+version:            0.01
+abstract:           Perl module to clean HTML by the piece
+author:
+    - Six Apart, Ltd. <scook@sixapart.com>
+license:            perl
+distribution_type:  module
+configure_requires:
+    ExtUtils::MakeMaker:  0
+requires:
+    HTML::Entities:   0
+    HTML::Parser:     0
+    Scalar::Util:     0
+    Switch:           0
+    Test::Exception:  0
+    Test::More:       0
+    URI:              0
+    URI::Escape:      0
+    URI::Split:       0
+no_index:
+    directory:
+        - t
+        - inc
+generated_by:       ExtUtils::MakeMaker version 6.48
+meta-spec:
+    url:      http://module-build.sourceforge.net/META-spec-v1.4.html
+    version:  1.4
