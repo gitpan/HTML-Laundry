@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               HTML-Laundry
-version:            0.0101
+version:            0.0102
 abstract:           Perl module to clean HTML by the piece
 author:
     - Six Apart, Ltd. <scook@sixapart.com>
