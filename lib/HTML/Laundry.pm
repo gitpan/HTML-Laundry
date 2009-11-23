@@ -7,7 +7,7 @@ use strict;
 use warnings;
 
 use 5.008;
-use version; our $VERSION = 0.01;
+use version; our $VERSION = 0.0101;
 
 =head1 NAME
 
