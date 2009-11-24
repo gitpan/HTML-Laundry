@@ -7,7 +7,7 @@ use strict;
 use warnings;
 
 use 5.008;
-use version; our $VERSION = 0.0102;
+use version; our $VERSION = 0.0103;
 
 =head1 NAME
 
@@ -15,7 +15,7 @@ HTML::Laundry - Perl module to clean HTML by the piece
 
 =head1 VERSION
 
-Version 0.0102
+Version 0.0103
 
 =head1 SYNOPSIS
 
@@ -67,7 +67,7 @@ neatened; future version may also use tidying to deal with character encoding
 issues.
 
 =item * Optionally rebased, to turn relative URLs in attributes into
-absolute ones
+absolute ones.
 
 =back
 
